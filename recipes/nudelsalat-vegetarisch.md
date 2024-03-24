@@ -12,11 +12,11 @@ Zeit | Dauer
 Arbeitszeit: | ca. 30 Minuten
 Ruhezeit: | 1-2 Stunden
 Koch-/Backzeit: | -
-Gesamtzeit: | -
+Gesamtzeit: | ca. 30 Minuten
 
 ## Zutaten
 
-für eine Portion:
+für eine Schüssel (ca. 3,5 Liter):
 
 Menge | Zutat
 -----: | :----- 
