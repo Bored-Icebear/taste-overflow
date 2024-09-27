@@ -4,6 +4,7 @@
 
 ## Hauptspeisen
 
+- [Lachs-Dijonsenfsauce](lachs-dijonsenfsauce.md)
 - [Nudelsalat](nudelsalat.md)
 - [Nudelsalat (vegetarisch)](nudelsalat-vegetarisch.md)
 
