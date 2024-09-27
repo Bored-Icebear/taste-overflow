@@ -7,25 +7,25 @@ tags:
 
 Aufwand: simple
 
-Zeit | Dauer
------ | -----
-Arbeitszeit: | ca. 10 Minuten
-Ruhezeit: | -
-Koch-/Backzeit: | ca. 40 Minuten
-Gesamtzeit: | ca. 50 Minuten
+| Zeit            | Dauer          |
+|-----------------|----------------|
+| Arbeitszeit:    | ca. 10 Minuten |
+| Ruhezeit:       | -              |
+| Koch-/Backzeit: | ca. 40 Minuten |
+| Gesamtzeit:     | ca. 50 Minuten |
 
 ## Zutaten
 
 für vier Portionen:
 
-Menge   | Zutat
--------:|:----------------- 
-500 g   | rote Zwiebeln
-120 ml  | Balsamico Essig
-3 EL    | Brauner Zucker
-1 Prise | Salz
-1 Prise | Pfeffer (schwarz)
-\-      | Sonnenblumenöl 
+|   Menge | Zutat             |
+|--------:|:------------------|
+|   500 g | rote Zwiebeln     |
+|  120 ml | Balsamico Essig   |
+|    3 EL | Brauner Zucker    |
+| 1 Prise | Salz              |
+| 1 Prise | Pfeffer (schwarz) |
+|      \- | Sonnenblumenöl    |
 
 ## Zubereitung
 

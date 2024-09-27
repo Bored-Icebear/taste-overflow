@@ -6,19 +6,19 @@ tags:
 
 Aufwand: simple/normal/schwer
 
-Zeit | Dauer
------ | -----
-Arbeitszeit: | 
-Ruhezeit: | 
-Koch-/Backzeit: | 
-Gesamtzeit: | 
+| Zeit            | Dauer |
+|-----------------|-------|
+| Arbeitszeit:    |       |
+| Ruhezeit:       |       |
+| Koch-/Backzeit: |       |
+| Gesamtzeit:     |       |
 
 ## Zutaten
 
 für eine Portion:
 
-Menge | Zutat
------: | :----- 
- | 
+| Menge | Zutat |
+|------:|:------|
+|       |       |
 
 ## Zubereitung
