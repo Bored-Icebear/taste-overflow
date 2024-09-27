@@ -4,6 +4,7 @@
 
 ## Hauptspeisen
 
+- [Nudelsalat](nudelsalat.md)
 - [Nudelsalat (vegetarisch)](nudelsalat-vegetarisch.md)
 
 ## Beilagen
