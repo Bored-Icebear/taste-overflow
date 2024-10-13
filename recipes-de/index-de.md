@@ -13,4 +13,8 @@
 - [Balsamico Zwiebeln](balsamico-zwiebeln.md)
 - [Knoblauch-Käse-Dip](knoblauch-kaese-dip.md)
 
+## Snacks
+
+- [Käsefüße](kaesefuesse.md)
+
 ## Nachtisch
