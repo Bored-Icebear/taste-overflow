@@ -12,6 +12,7 @@
 
 - [Balsamico Zwiebeln](balsamico-zwiebeln.md)
 - [Knoblauch-Käse-Dip](knoblauch-kaese-dip.md)
+- [Pilzrahmsoße](pilzrahmsosse.md)
 
 ## Snacks
 
