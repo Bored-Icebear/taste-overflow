@@ -1,8 +1,6 @@
 ---
 tags:
-
-- snack
-
+  - snack
 ---
 
 # Käsefüße
@@ -42,11 +40,14 @@ zum Verzieren:
 
 ## Zubereitung
 
-Butter und Käse in einer Schüssel gut verrühren. Sahne, Salz und Paprikapulver einkneten. Backpulver und Mehl vermengen
-und gemeinsam mit der Käse-Butter-Masse verrühren. Anschließend den Teig etwa zwei Stunden im Kühlschrank ruhen lassen.
+Butter und Käse in einer Schüssel gut verrühren. Sahne, Salz und Paprikapulver
+einkneten. Backpulver und Mehl vermengen und gemeinsam mit der Käse-Butter-Masse
+verrühren. Anschließend den Teig etwa zwei Stunden im Kühlschrank ruhen lassen.
 
-Teig (portioniert) auf etwa 6 mm ausrollen und mit beliebigen Ausstechformen ausstechen (bspw. mit namesgebend einer
-Fußform) und auf ein mit Backpapier ausgelegtes Blech legen. Verquirltes Eigelb aufpinseln und nach Belieben verzieren
-(bspw. mit einer Sesam-Mohn-Mischung).
+Teig (portioniert) auf etwa 6 mm ausrollen und mit beliebigen Ausstechformen
+ausstechen (bspw. mit namesgebend einer Fußform) und auf ein mit Backpapier
+ausgelegtes Blech legen. Verquirltes Eigelb aufpinseln und nach Belieben
+verzieren (bspw. mit einer Sesam-Mohn-Mischung).
 
-Käsefüße bei 200 °C im Backofen für ca. 15 Minuten goldbraun backen und anschließend abkühlen lassen.
+Käsefüße bei 200 °C im Backofen für ca. 15 Minuten goldbraun backen und
+anschließend abkühlen lassen.

@@ -1,8 +1,6 @@
 ---
 tags:
-
-- soße
-
+  - soße
 ---
 
 # Pilzrahmsoße
@@ -35,9 +33,10 @@ für eine Portion:
 
 ## Zubereitung
 
-Champignons schneiden, Zwiebeln und Knoblauch würfeln. Mit Öl zusammen in einer Pfanne scharf anbraten und warten bis
-die gesamte Flüssigkeit verkocht ist.
+Champignons schneiden, Zwiebeln und Knoblauch würfeln. Mit Öl zusammen in einer
+Pfanne scharf anbraten und warten bis die gesamte Flüssigkeit verkocht ist.
 
 Sahne und Gemüsebrühe hinzugeben und einköcheln lassen.
 
-Mit Salz, Pfeffer und Zitronensaft abschmecken und ggf. mit Petersilie anrichten.
+Mit Salz, Pfeffer und Zitronensaft abschmecken und ggf. mit Petersilie
+anrichten.

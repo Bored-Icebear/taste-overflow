@@ -1,8 +1,6 @@
 ---
 tags:
-
-- salat
-
+  - salat
 ---
 
 # Nudelsalat
@@ -44,9 +42,11 @@ für eine Schüssel (ca. 3,5 Liter):
 
 Nudeln gemäß der Packungsanleitung kochen.
 
-Erbsen und Pilze abtropfen lassen. Zwiebeln fein hacken und den Ring Fleischwurst in feine Würfel schneiden.
+Erbsen und Pilze abtropfen lassen. Zwiebeln fein hacken und den Ring
+Fleischwurst in feine Würfel schneiden.
 
-Fondor, Masala, Thymian, Oregano, Paprika Edelsüß, Rsenpaprika, Cayennepfeffer und Pfeffer in einem Becher vermengen
-und mit Milch und Mayonnaise gut vermengen.
+Fondor, Masala, Thymian, Oregano, Paprika Edelsüß, Rosenpaprika, Cayennepfeffer
+und Pfeffer in einem Becher vermengen und mit Milch und Mayonnaise gut
+vermengen.
 
 Anschließend alle Zutaten in einer Schüssel gut vermengen.

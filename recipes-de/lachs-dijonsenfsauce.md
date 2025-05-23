@@ -32,7 +32,8 @@ für 4 Personen:
 
 ## Zubereitung
 
-Breite Band nach Packungsanweisung zubereiten. Sahne und Fond mit Thymian aufkochen, etwas einkochen lassen, mit
-Saucenbinder andicken, Lachsstücke dazugeben, kurz mit erhitzen, mit Zitronensaft, Senf, Salz, Pfeffer abschmecken.
+Breite Band nach Packungsanweisung zubereiten. Sahne und Fond mit Thymian
+aufkochen, etwas einkochen lassen, mit Saucenbinder andicken, Lachsstücke
+dazugeben, kurz mit erhitzen, mit Zitronensaft, Senf, Salz, Pfeffer abschmecken.
 
 Quelle: Birkel Rezept Nr. 53 (Breite Band)

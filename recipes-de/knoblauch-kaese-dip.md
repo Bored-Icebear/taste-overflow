@@ -1,7 +1,7 @@
 ---
 tags:
-- beilage
-- dip
+  - beilage
+  - dip
 ---
 
 # Knoblauch-Käse-Dip
@@ -29,4 +29,5 @@ für eine Portion:
 
 ## Zubereitung
 
-Knoblauch pressen und Basilikum hacken. Anschließend alles zusammen in einer Schüssel verrühren.
+Knoblauch pressen und Basilikum hacken. Anschließend alles zusammen in einer
+Schüssel verrühren.

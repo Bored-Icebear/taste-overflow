@@ -1,6 +1,6 @@
 ---
 tags:
-- zwiebeln
+  - zwiebeln
 ---
 
 # Balsamico Zwiebeln
@@ -29,4 +29,8 @@ für vier Portionen:
 
 ## Zubereitung
 
-Rote Zwiebeln in Ringe schneiden. Diese in einer Pfanne scharf anbraten und mit braunem Zucker, Pfeffer und Salz würzen. Wenn die Zwiebeln leicht braun und karamellisiert sind, den Balsamico hinzufügen und ca. 30-40 Minuten auf niedriger Stufe fertig garen. Die Zwiebeln sind fertig, wenn der Balsamico fast ganz in die Zwiebeln eingezogen ist.
+Rote Zwiebeln in Ringe schneiden. Diese in einer Pfanne scharf anbraten und mit
+braunem Zucker, Pfeffer und Salz würzen. Wenn die Zwiebeln leicht braun und
+karamellisiert sind, den Balsamico hinzufügen und ca. 30-40 Minuten auf
+niedriger Stufe fertig garen. Die Zwiebeln sind fertig, wenn der Balsamico fast
+ganz in die Zwiebeln eingezogen ist.

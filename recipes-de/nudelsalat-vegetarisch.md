@@ -1,6 +1,6 @@
 ---
 tags:
-- salat
+  - salat
 ---
 
 # Nudelsalat (vegetarisch)
@@ -39,8 +39,14 @@ für eine Schüssel (ca. 3,5 Liter):
 
 Nudeln gemäß der Packungsanleitung kochen.
 
-Olivenöl, Essig, Wasser und Gewürze in einer Schüssel zu einer Soße verrühren und die Nudeln anschließend hinzugeben. Es wird empfohlen, die Nudeln mindestens 1-2 Stunden (besser eine Nacht) in der Soße ziehen zu lassen.
+Olivenöl, Essig, Wasser und Gewürze inkl. Basilikum in einer Schüssel zu einer
+Soße verrühren und die Nudeln anschließend hinzugeben. Es wird empfohlen, die
+Nudeln mindestens 1-2 Stunden (besser eine Nacht) in der Soße ziehen zu lassen.
 
-Anschließend Scharfskäse würfeln, Tomaten halbieren/vierteln und Pilze in Scheiben schneiden und unter die Nudeln heben. Der Rucola kann im Ganzen untergehoben werden, es ist aber empfohlen auch hier einmal mit dem Messer die Menge grob zu zerkleinern (macht das Essen einfacher).
+Anschließend Schafskäse würfeln, Tomaten halbieren/vierteln und Pilze in
+Scheiben schneiden und unter die Nudeln heben. Der Rucola kann im Ganzen
+untergehoben werden, es ist aber empfohlen auch hier einmal mit dem Messer die
+Menge grob zu zerkleinern (macht das Essen einfacher).
 
-Die Pinienkerne anrösten und dazu servieren oder direkt mit unterheben (nicht empfohlen, wenn der Salat noch längere Zeit steht, da sie sonst aufweichen).
+Die Pinienkerne anrösten und dazu servieren oder direkt mit unterheben (nicht
+empfohlen, wenn der Salat noch längere Zeit steht, da sie sonst aufweichen).
