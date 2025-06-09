@@ -4,6 +4,8 @@
 
 ## Hauptspeisen
 
+- [Schupfnudelpfanne](schupfnudelpfanne.md)
+
 ### Nudelgerichte
 
 - [Lachs-Dijonsenfsauce](lachs-dijonsenfsauce.md)
