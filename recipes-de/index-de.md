@@ -27,5 +27,6 @@
 ## Snacks
 
 - [Käsefüße](kaesefuesse.md)
+- [Waffeln à la TEN](waffeln-ala-ten.md)
 
 ## Nachtisch
