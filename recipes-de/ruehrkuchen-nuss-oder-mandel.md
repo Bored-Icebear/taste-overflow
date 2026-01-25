@@ -30,13 +30,13 @@ für eine Portion:
 
 ## Zubereitung
 
-1. Backoven auf 180°C Ober Unter anschalten.
+1. Backofen auf 180°C Ober Unter anschalten.
 2. Etwas (10g oder so) von der Butter in die Kuchenform. Die Kuchenform damit unten einreiben. Dadurch bleibt der Kuchen nicht in der Form kleben.
 3. 4 Eier + Butter + Zucker in Rührmaschine und bei mittlerer Drehzahl schaumig rühren lassen.
 4. Etwas(20g oder so) von den gemahlenen Nüssen in die fettige Kuchenform. Etwas hin und her schütteln damit es sich verteilt. Dadurch wird die Kruste nussiger.
-5. Den ganzen rest in einer extra Schüssel abwiegen und trocken vermischen bis alles gut vermengt ist. Eine transparente Tupperschüssel hilft hier besonders beim Einschätzen obs schon gut vermengt ist.
+5. Den ganzen Rest in einer extra Schüssel abwiegen und trocken vermischen bis alles gut vermengt ist. Eine transparente Tupperschüssel hilft hier besonders beim Einschätzen obs schon gut vermengt ist.
 6. Rührmaschine auf niedrigste Stufe stellen
 7. Das Vermengte langsam in die Rührmaschine geben
 8. Wasser zugeben.
 9. Wenn das in der Rührmaschine vermengt ist den Teig in die Backform geben und in den Backoven stellen der inzwischen bei 180° sein sollte.
-10. Nach einer Stunde im Backoven ist der Kuchen fertig
+10. Nach einer Stunde im Backofen ist der Kuchen fertig
